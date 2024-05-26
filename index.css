@@ -1,0 +1,349 @@
+#neha{
+    height: 1000px;
+    width: 1350px;
+    background-color: rgba(9, 8, 10, 0.712);
+}
+#one{
+    height: 300px;
+    width: 300px;
+    position:absolute;
+    
+    right: 0px;
+    background-color: rgba(255, 223, 82, 0.897);
+}
+#two{
+    height: 250px;
+    width: 420px;
+    background-color: rgba(255,223,82,0.897);
+    position:absolute;
+    bottom: -40px;
+}
+#three{
+    
+    background-size:contain;
+    height: 600px;
+    width: 300px;
+    position:absolute;
+    left: 60px;
+    top: 0px;
+    background-color: rgba(9, 6, 15, 0.959);
+}
+#four{
+     background-image: url("ironman.png");
+    height: 550px;
+    width: 850px;
+    background-color: rgba(9, 6, 15, 0.959);
+    position: absolute;
+    right: 80px;
+    bottom: -40px;
+}
+#five{
+    height: 350px;
+    width: 600px;
+    background-color: rgba(53, 53, 73, 0.418) ;
+    position: absolute;
+    left: 80px;
+    top: 250px;
+}
+.MYclass{
+    text-decoration: none;
+    font-size: 10px;
+    color: aliceblue;
+    margin-left: 40px;
+}
+#logo{
+    color: goldenrod;
+    font-size: 25px;
+    text-decoration: none;
+    margin-right:130px;
+    margin-left: 80px;
+    
+
+   
+   
+}
+#button{
+    border-color: goldenrod;
+    color: goldenrod;
+    position:absolute;
+    height: 20px;
+    width: 100px;
+    margin-left: 15px;
+    margin-top: 10px;
+    background-color:rgb(63, 59, 59);
+    
+}
+#name{
+    color: aliceblue;
+    position: absolute;
+    top: 60px;
+    left: 80px;
+    
+
+
+
+}
+#hello{
+    color: goldenrod;
+    position:absolute;
+    top: 60px;
+    font-size: 10px;
+    left: 80px;
+}
+.Rclass{
+   text-decoration: none;
+   color: aliceblue;
+   font-size: 14px;
+   margin-left: 30px;
+}
+#about{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    background-color: goldenrod;
+   border: 10px;
+   border-color: goldenrod;
+}
+#six{
+    height: 20px;
+    padding: 5px;
+    
+    
+}
+#me{
+    position: absolute;
+    left: 250px;
+    top: 40px;
+    color: goldenrod;
+}
+#Rahul{
+    position: absolute;
+    left: 250px;
+    top: 60px;
+    color: rgb(228, 224, 216);
+}
+#lorem{
+    position: absolute;
+    left: 250px;
+    top: 130px;
+    color: rgb(204, 201, 195)
+     
+}
+#three1{
+    height: 10px;
+    width: 50px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(23, 41, 41);
+    text-decoration: none;
+    color: aliceblue;
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+    text-align: start;
+
+}
+     
+#three2{
+    height: 10px;
+    width: 50px;
+    padding: 10px;
+    background-color: rgb(23, 41, 41);
+    text-decoration: none;
+    color: aliceblue;
+    position: absolute;
+    bottom: 30px;
+    margin: 20px;
+}
+     
+#three3{
+    height: 10px;
+    width: 50px;
+    padding: 10px;
+    background-color: rgb(23, 41, 41);
+    text-decoration: none;
+    color: aliceblue;
+    position: absolute;
+    bottom: 10px;
+    left: 110px;
+    text-align: start;
+
+}
+     
+#three4{
+    height: 10px;
+    width: 50px;
+    padding: 10px;
+    background-color: rgb(23, 41, 41);
+    text-decoration: none;
+    color: aliceblue;
+    position: absolute;
+    bottom: 10px;
+    left: 200px;
+    text-align: start;
+
+}
+     
+#three5{
+    height: 10px;
+    width: 50px;
+    padding: 10px;
+    background-color: rgb(23, 41, 41);
+    text-decoration: none;
+    color: aliceblue;
+    position: absolute;
+    bottom: 50px;
+    left: 110px;
+    text-align: start;
+
+}
+     
+#three6{
+    height: 10px;
+    width: 50px;
+    padding: 10px;
+    background-color: rgb(23, 41, 41);
+    text-decoration: none;
+    color: aliceblue;
+    position: absolute;
+    bottom: 50px;
+    left: 200px;
+    text-align: start;
+
+}
+#d7{
+    position: absolute;
+    left: 5px;
+    bottom: 50px;
+    height: 230px;
+    width: 230px;
+    background-image: url("Screenshot\ 2024-05-22\ 132620.png");
+    background-position: center;
+}  
+#pic1{
+    height: 50px;
+    width: 50px;
+    background-color: aliceblue;
+    background-image: url("download\ \(1\).jpeg");
+    background-size:130px;
+    background-position: -38px;
+    border: 4px;
+    position: absolute;
+    left:100px;
+    bottom: 190px;
+}
+#pic2{
+    height: 50px;
+    width: 50px;
+    background-color: aliceblue;
+    background-image: url("download\ \(2\).jpeg");
+    background-size: 90px;
+    background-position: -18px;
+    border: 4px;
+    position: absolute;
+    left:100px;
+    bottom: 130px;
+}
+#pic3{
+    height: 50px;
+    width: 50px;
+    background-color: aliceblue;
+    background-image: url("images\ \(1\).jpeg");
+    background-size: 60px;
+    background-position: -2px 0.3222px ;
+    border: 4px;
+    position: absolute;
+    left:160px;
+    bottom: 130px;
+}
+#pic4{
+    height: 50px;
+    width: 50px;
+    background-color: aliceblue;
+    background-image: url("images\ \(2\).jpeg");
+    background-size: 60px;
+    background-position:px 10px ;
+    border: 4px;
+    position: absolute;
+    left:160px;
+    bottom: 190px;
+}
+#pic5{
+    height: 50px;
+    width: 50px;
+    background-color: aliceblue;
+    background-image: url("images\ \(3\).jpeg");
+    background-size: 50px;
+    border: 4px;
+    position: absolute;
+    left:220px;
+    bottom: 190px;
+}
+#pic6{
+    height: 50px;
+    width: 50px;
+    background-color: aliceblue;
+    background-image: url("images\ \(4\).jpeg");
+    background-size: 80px;
+    background-position: -15px;
+    border: 4px;
+    position: absolute;
+    left:220px;
+    bottom: 130px;
+}
+#MAN{
+    color: aliceblue;
+    height: 200px;
+    width: 300px;
+    background-color: rgba(13, 13, 27, 0.774);
+    position: absolute;
+    top: 120px;
+    ;
+}
+#im{
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+#ironman{
+    height: 90px;
+    width: 120px;
+    border: 2px goldenrod solid;
+    border-radius: 10px;
+    position: absolute;
+    top: 80px;
+    left: 20px;
+}
+#iron{
+    height: 90px;
+    width: 120px;
+    border: 2px goldenrod solid;
+    border-radius: 10px;
+    position: absolute;
+    top: 80px;
+    left: 160px;
+}
+#tony{
+    position: absolute;
+    top: -16px;
+    left: 10px;
+
+}
+#stark{
+    position: absolute;
+    top: -16px;
+    left: 5px;
+}
+#RR{
+    font-size: 12px;
+    position: absolute;
+    bottom: 3px;
+    left: 10px;
+}
+#RRR{
+    color: aliceblue;
+    position: absolute;
+    bottom: 200px;
+    left: 20px;
+}
